@@ -2,7 +2,7 @@
   "applinks": {
     "apps": [],
     "details": [{
-      "appID": "你的TeamID.你的BundleID",
+      "appID": "WAJFGVX553.com.junhe.teamco",
       "paths": ["/wechat/*"]
     }]
   }
